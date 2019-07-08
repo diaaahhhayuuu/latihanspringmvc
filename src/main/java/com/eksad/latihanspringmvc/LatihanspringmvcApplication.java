@@ -9,5 +9,6 @@ public class LatihanspringmvcApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LatihanspringmvcApplication.class, args);
 	}
+	
 
 }
